@@ -1,22 +1,22 @@
-[29Mar2025 16:35:01.885] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[29Mar2025 16:35:01.889] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[29Mar2025 16:35:07.556] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[29Mar2025 16:35:07.660] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor2.1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[29Mar2025 16:35:08.327] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[29Mar2025 16:35:08.331] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[29Mar2025 16:35:08.332] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[29Mar2025 16:35:08.333] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[29Mar2025 16:35:08.850] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[29Mar2025 16:35:08.853] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
-[29Mar2025 16:35:12.670] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[29Mar2025 16:35:13.033] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[29Mar2025 16:35:13.038] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[29Mar2025 16:35:13.656] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 16:35:13.658] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 16:35:13.688] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 16:35:13.772] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 16:35:13.779] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
-[29Mar2025 16:35:13.827] [main/INFO] [Puzzles Lib/]: Loading 83 mods:
+[29Mar2025 16:50:55.940] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Mar2025 16:50:55.943] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[29Mar2025 16:50:56.727] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Mar2025 16:50:56.779] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor2.1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[29Mar2025 16:50:57.198] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[29Mar2025 16:50:57.200] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[29Mar2025 16:50:57.202] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[29Mar2025 16:50:57.203] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[29Mar2025 16:50:57.449] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[29Mar2025 16:50:57.451] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 15 dependencies adding them to mods collection
+[29Mar2025 16:50:59.898] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[29Mar2025 16:51:00.135] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[29Mar2025 16:51:00.137] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[29Mar2025 16:51:00.319] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 16:51:00.322] [main/WARN] [mixin/]: Reference map 'cobweb.refmap.json' for cobweb.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 16:51:00.345] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 16:51:00.396] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 16:51:00.402] [main/WARN] [mixin/]: Reference map 'CerbonsAPI-Forge-1.20.1-forge-refmap.json' for cerbons_api.mixins.json could not be read. If this is a development environment you can ignore this message
+[29Mar2025 16:51:00.433] [main/INFO] [Puzzles Lib/]: Loading 83 mods:
 	- advancednetherite 2.1.3
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
@@ -100,12 +100,12 @@
 	- voicechat 1.20.1-2.5.26
 	- waystones 14.1.11
 	- yungsapi 1.20-Forge-4.0.6
-[29Mar2025 16:35:14.146] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
-[29Mar2025 16:35:15.485] [main/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/entity/event/v1/FabricElytraItem (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.entity.event.v1.FabricElytraItem)
-[29Mar2025 16:35:16.191] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[29Mar2025 16:35:16.193] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[29Mar2025 16:35:16.679] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[29Mar2025 16:35:17.295] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[29Mar2025 16:51:00.600] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+[29Mar2025 16:51:01.504] [main/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/entity/event/v1/FabricElytraItem (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.entity.event.v1.FabricElytraItem)
+[29Mar2025 16:51:01.882] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[29Mar2025 16:51:01.882] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[29Mar2025 16:51:02.114] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[29Mar2025 16:51:02.500] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23243!/:?]
@@ -135,258 +135,457 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[29Mar2025 16:35:25.555] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[29Mar2025 16:51:08.176] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[29Mar2025 16:35:26.388] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
-[29Mar2025 16:35:26.417] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
-[29Mar2025 16:35:26.529] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[29Mar2025 16:35:26.567] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[29Mar2025 16:35:26.586] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[29Mar2025 16:35:26.652] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
-[29Mar2025 16:35:27.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[29Mar2025 16:35:27.310] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[29Mar2025 16:35:27.326] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[29Mar2025 16:35:27.334] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[29Mar2025 16:35:27.338] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[29Mar2025 16:35:27.339] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[29Mar2025 16:35:27.340] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[29Mar2025 16:35:27.355] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[29Mar2025 16:35:28.144] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[29Mar2025 16:35:28.145] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[29Mar2025 16:35:28.145] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[29Mar2025 16:35:28.145] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[29Mar2025 16:35:28.145] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[29Mar2025 16:35:28.146] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[29Mar2025 16:35:28.146] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[29Mar2025 16:35:28.341] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[29Mar2025 16:35:28.452] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[29Mar2025 16:35:28.453] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[29Mar2025 16:35:28.629] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[29Mar2025 16:35:29.571] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[29Mar2025 16:35:29.774] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
-[29Mar2025 16:35:29.824] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
-[29Mar2025 16:35:30.142] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[29Mar2025 16:35:30.218] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[29Mar2025 16:35:30.284] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[29Mar2025 16:35:35.321] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[29Mar2025 16:35:35.571] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
-[29Mar2025 16:35:35.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
-[29Mar2025 16:35:35.682] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[29Mar2025 16:35:35.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
-[29Mar2025 16:35:35.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
-[29Mar2025 16:35:35.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
-[29Mar2025 16:35:35.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[29Mar2025 16:35:35.840] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[29Mar2025 16:35:35.841] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[29Mar2025 16:35:35.886] [modloading-worker-0/INFO] [net.twomoonsstudios.moonsweaponry.MoonsWeaponry/]: GREMLINS OF ALL KINDS ARISE!!! Weaponworks setting up!
-[29Mar2025 16:35:35.888] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
-[29Mar2025 16:35:35.902] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[29Mar2025 16:35:35.926] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[29Mar2025 16:35:35.927] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[29Mar2025 16:35:35.958] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[29Mar2025 16:35:35.963] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[29Mar2025 16:35:35.971] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[29Mar2025 16:35:36.075] [main/INFO] [journeymap/]: Initializing Packet Registries
-[29Mar2025 16:35:36.131] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[29Mar2025 16:35:36.132] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[29Mar2025 16:35:36.133] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[29Mar2025 16:35:36.133] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[29Mar2025 16:35:36.139] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[29Mar2025 16:35:36.140] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[29Mar2025 16:35:36.140] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[29Mar2025 16:35:36.143] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[29Mar2025 16:35:36.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
-[29Mar2025 16:35:36.393] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[29Mar2025 16:35:36.435] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[29Mar2025 16:35:36.454] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[29Mar2025 16:35:36.455] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[29Mar2025 16:35:36.475] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[29Mar2025 16:35:36.481] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[29Mar2025 16:35:36.483] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[29Mar2025 16:35:36.483] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[29Mar2025 16:35:36.487] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[29Mar2025 16:35:36.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[29Mar2025 16:35:36.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[29Mar2025 16:35:36.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.33 Target: null
-[29Mar2025 16:35:36.598] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Starting version check at https://api.modrinth.com/updates/cobweb/forge_updates.json
-[29Mar2025 16:35:36.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[29Mar2025 16:35:36.952] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[29Mar2025 16:35:37.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[29Mar2025 16:35:37.336] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[29Mar2025 16:35:37.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
-[29Mar2025 16:35:37.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
-[29Mar2025 16:35:37.542] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Found status: UP_TO_DATE Current: 4.0.11 Target: null
-[29Mar2025 16:35:37.544] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[29Mar2025 16:35:37.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[29Mar2025 16:35:37.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[29Mar2025 16:35:37.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
-[29Mar2025 16:35:37.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
-[29Mar2025 16:35:37.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
-[29Mar2025 16:35:37.760] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[29Mar2025 16:35:38.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.28
-[29Mar2025 16:35:38.292] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[29Mar2025 16:35:38.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.10
-[29Mar2025 16:35:38.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[29Mar2025 16:35:38.513] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[29Mar2025 16:35:38.514] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[29Mar2025 16:35:38.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
-[29Mar2025 16:35:38.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
-[29Mar2025 16:35:38.629] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
-[29Mar2025 16:35:38.630] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[29Mar2025 16:35:38.754] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[29Mar2025 16:35:38.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
-[29Mar2025 16:35:38.948] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
-[29Mar2025 16:35:38.948] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[29Mar2025 16:35:38.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
-[29Mar2025 16:35:38.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[29Mar2025 16:35:38.980] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
-[29Mar2025 16:35:38.981] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[29Mar2025 16:35:39.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[29Mar2025 16:35:39.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
-[29Mar2025 16:35:39.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
-[29Mar2025 16:35:40.353] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[29Mar2025 16:35:42.881] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23243!/assets/.mcassetsroot' uses unexpected schema
-[29Mar2025 16:35:42.882] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23243!/data/.mcassetsroot' uses unexpected schema
-[29Mar2025 16:35:43.872] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[29Mar2025 16:35:45.512] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[29Mar2025 16:35:45.715] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
-[29Mar2025 16:35:47.580] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[29Mar2025 16:35:47.793] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3117 advancements
-[29Mar2025 16:35:47.837] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[29Mar2025 16:35:47.844] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[29Mar2025 16:35:47.875] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
-[29Mar2025 16:35:47.875] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
-[29Mar2025 16:35:47.875] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
-[29Mar2025 16:35:47.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[29Mar2025 16:35:47.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
-[29Mar2025 16:35:47.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
-[29Mar2025 16:35:47.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
-[29Mar2025 16:35:47.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[29Mar2025 16:35:47.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[29Mar2025 16:35:47.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[29Mar2025 16:35:47.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[29Mar2025 16:35:47.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[29Mar2025 16:35:47.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
-[29Mar2025 16:35:47.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[29Mar2025 16:35:47.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
-[29Mar2025 16:35:47.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[29Mar2025 16:35:47.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
-[29Mar2025 16:35:47.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
-[29Mar2025 16:35:47.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[29Mar2025 16:35:47.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
-[29Mar2025 16:35:47.879] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
-[29Mar2025 16:35:47.880] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
-[29Mar2025 16:35:50.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[29Mar2025 16:35:50.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[29Mar2025 16:35:50.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[29Mar2025 16:35:50.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[29Mar2025 16:35:50.706] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[29Mar2025 16:35:50.955] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[29Mar2025 16:35:51.069] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[29Mar2025 16:35:51.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[29Mar2025 16:35:51.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[29Mar2025 16:35:51.071] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[29Mar2025 16:35:51.098] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
-[29Mar2025 16:35:51.100] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
-[29Mar2025 16:35:51.100] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[29Mar2025 16:35:51.102] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easyanvils
-[29Mar2025 16:35:51.105] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Mar2025 16:35:51.106] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Mar2025 16:35:51.107] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[29Mar2025 16:35:51.490] [Server thread/INFO] [Framework/]: Loading server configs...
-[29Mar2025 16:35:51.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[29Mar2025 16:35:53.193] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
-[29Mar2025 16:35:56.615] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
-[29Mar2025 16:35:56.616] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, minecraft:end_cities]
-[29Mar2025 16:35:56.616] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:3 potentially creating overlapping structures detected. Structure sets: [alexscaves:cake_cave, alexscaves:ferrocave]
-[29Mar2025 16:35:56.617] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost]
-[29Mar2025 16:35:56.617] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [minecraft:villages, nova_structures:villages_jungle, nova_structures:villages_swamp]
-[29Mar2025 16:35:56.617] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
-[29Mar2025 16:35:56.618] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:2 potentially creating overlapping structures detected. Structure sets: [alexscaves:ocean_trench, alexscaves:acid_pit]
-[29Mar2025 16:35:56.618] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [nova_structures:desert_ruins, nova_structures:jungle_ruins]
-[29Mar2025 16:35:56.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[29Mar2025 16:35:59.491] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:35:59.521] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:35:59.538] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:35:59.548] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:35:59.559] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:35:59.561] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:00.942] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:00.975] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:00.985] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:01.351] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:01.917] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:02.306] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:04.285] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:04.300] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:04.307] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:04.312] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:04.794] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[29Mar2025 16:36:05.294] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[29Mar2025 16:36:05.793] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[29Mar2025 16:36:05.892] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
-[29Mar2025 16:36:06.271] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9478 ms
-[29Mar2025 16:36:06.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.182s)! For help, type "help"
-[29Mar2025 16:36:06.373] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[29Mar2025 16:36:06.432] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[29Mar2025 16:36:06.456] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2035
-[29Mar2025 16:37:29.029] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[29Mar2025 16:37:29.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/127.104.78.195:46365] logged in with entity id 737 at (435.8765725733593, 65.875, 2023.6554749401243)
-[29Mar2025 16:37:29.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
-[29Mar2025 16:37:29.365] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
-[29Mar2025 16:37:31.232] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
-[29Mar2025 16:37:31.234] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
-[29Mar2025 16:37:40.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[29Mar2025 16:37:41.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[29Mar2025 16:37:41.905] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
-[29Mar2025 16:43:27.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
-[29Mar2025 16:43:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
-[29Mar2025 16:44:39.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
-[29Mar2025 16:45:31.186] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Dominic'/2401, l='ServerLevel[world]', x=437.14, y=64.00, z=2026.21] died: Dominic was slain by Aleksito27 using [Killer Of Virgins]
-[29Mar2025 16:46:20.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
-[29Mar2025 16:46:34.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb timed out
-[29Mar2025 16:46:34.871] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Aleksito27
-[29Mar2025 16:46:34.872] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
-[29Mar2025 16:46:41.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 moved too quickly! 10.042186665999793,0.9589907311711059,-0.23603566311362556
-[29Mar2025 16:46:45.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 lost connection: Disconnected
-[29Mar2025 16:46:45.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 left the game
-[29Mar2025 16:46:45.127] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aleksito27
-[29Mar2025 16:46:45.200] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[29Mar2025 16:47:14.493] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/127.104.78.195:35489] logged in with entity id 2669 at (436.17037686590044, 64.79673560066871, 2030.9251614823083)
-[29Mar2025 16:47:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
-[29Mar2025 16:47:14.534] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
-[29Mar2025 16:47:15.377] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
-[29Mar2025 16:47:15.377] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
-[29Mar2025 16:47:20.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[29Mar2025 16:47:21.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
-[29Mar2025 16:47:21.075] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
-[29Mar2025 16:48:54.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb timed out
-[29Mar2025 16:48:54.770] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Aleksito27
-[29Mar2025 16:48:54.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
-[29Mar2025 16:48:59.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 lost connection: Timed out
-[29Mar2025 16:48:59.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 left the game
-[29Mar2025 16:48:59.676] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aleksito27
-[29Mar2025 16:50:15.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Mar2025 16:50:15.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Mar2025 16:50:15.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Mar2025 16:50:15.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Mar2025 16:50:15.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Mar2025 16:50:15.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Mar2025 16:50:15.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[29Mar2025 16:50:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Mar2025 16:50:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Mar2025 16:50:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Mar2025 16:50:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[29Mar2025 16:50:15.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[29Mar2025 16:50:15.662] [Server thread/INFO] [Framework/]: Unloading server configs...
-[29Mar2025 16:50:15.663] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[29Mar2025 16:50:15.664] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[29Mar2025 16:50:15.666] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Mar2025 16:51:08.908] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easyanvils:main
+[29Mar2025 16:51:08.908] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for easymagic:main
+[29Mar2025 16:51:08.959] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[29Mar2025 16:51:09.011] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[29Mar2025 16:51:09.029] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[29Mar2025 16:51:09.071] [modloading-worker-0/INFO] [Collective/]: [Collective] JSON file 'entity_names.json' generation requested by mod 'villagernames'.
+[29Mar2025 16:51:09.384] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[29Mar2025 16:51:09.385] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[29Mar2025 16:51:09.391] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[29Mar2025 16:51:09.493] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[29Mar2025 16:51:09.494] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[29Mar2025 16:51:09.495] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[29Mar2025 16:51:09.515] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[29Mar2025 16:51:09.516] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[29Mar2025 16:51:09.707] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[29Mar2025 16:51:09.707] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[29Mar2025 16:51:09.707] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[29Mar2025 16:51:09.707] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[29Mar2025 16:51:09.707] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[29Mar2025 16:51:09.707] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[29Mar2025 16:51:09.715] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[29Mar2025 16:51:09.855] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[29Mar2025 16:51:09.855] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[29Mar2025 16:51:09.889] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[29Mar2025 16:51:10.036] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
+[29Mar2025 16:51:10.513] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[29Mar2025 16:51:10.658] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
+[29Mar2025 16:51:10.725] [modloading-worker-0/INFO] [com.autovw.advancednetherite.AdvancedNetherite/]: Initializing platform helper for Advanced Netherite!
+[29Mar2025 16:51:11.013] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[29Mar2025 16:51:11.065] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[29Mar2025 16:51:11.094] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[29Mar2025 16:51:15.368] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[29Mar2025 16:51:15.562] [modloading-worker-0/INFO] [com.structureessentials.StructureEssentials/]: structureessentials mod initialized
+[29Mar2025 16:51:15.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easyanvils.json
+[29Mar2025 16:51:15.647] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[29Mar2025 16:51:15.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easyanvils] Found status: UP_TO_DATE Current: 8.0.2 Target: null
+[29Mar2025 16:51:15.698] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/easymagic.json
+[29Mar2025 16:51:15.710] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easymagic] Found status: UP_TO_DATE Current: 8.0.1 Target: null
+[29Mar2025 16:51:15.711] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[29Mar2025 16:51:15.726] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[29Mar2025 16:51:15.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[29Mar2025 16:51:15.775] [modloading-worker-0/INFO] [net.twomoonsstudios.moonsweaponry.MoonsWeaponry/]: GREMLINS OF ALL KINDS ARISE!!! Weaponworks setting up!
+[29Mar2025 16:51:15.779] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[29Mar2025 16:51:15.786] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[29Mar2025 16:51:15.813] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[29Mar2025 16:51:15.813] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[29Mar2025 16:51:15.829] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[29Mar2025 16:51:15.830] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[29Mar2025 16:51:15.832] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[29Mar2025 16:51:15.897] [main/INFO] [journeymap/]: Initializing Packet Registries
+[29Mar2025 16:51:15.944] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[29Mar2025 16:51:15.944] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[29Mar2025 16:51:15.945] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[29Mar2025 16:51:15.945] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[29Mar2025 16:51:15.947] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[29Mar2025 16:51:15.947] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[29Mar2025 16:51:15.947] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[29Mar2025 16:51:15.949] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[29Mar2025 16:51:16.201] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[29Mar2025 16:51:16.212] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[29Mar2025 16:51:16.213] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[29Mar2025 16:51:16.230] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[29Mar2025 16:51:16.236] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[29Mar2025 16:51:16.239] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[29Mar2025 16:51:16.239] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[29Mar2025 16:51:16.242] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[29Mar2025 16:51:16.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.9.3 Target: 1.9.3
+[29Mar2025 16:51:16.304] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[29Mar2025 16:51:16.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[29Mar2025 16:51:16.413] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[29Mar2025 16:51:16.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.33 Target: null
+[29Mar2025 16:51:16.456] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Starting version check at https://api.modrinth.com/updates/cobweb/forge_updates.json
+[29Mar2025 16:51:16.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cobweb] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[29Mar2025 16:51:16.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[29Mar2025 16:51:17.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[29Mar2025 16:51:17.301] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[29Mar2025 16:51:17.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: UP_TO_DATE Current: 5.1.4.346 Target: null
+[29Mar2025 16:51:17.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Starting version check at https://api.modrinth.com/updates/soul-fire-d/forge_updates.json
+[29Mar2025 16:51:17.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [soul_fire_d] Found status: UP_TO_DATE Current: 4.0.11 Target: null
+[29Mar2025 16:51:17.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[29Mar2025 16:51:17.446] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[29Mar2025 16:51:17.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[29Mar2025 16:51:17.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.0 Target: 47.4.0
+[29Mar2025 16:51:17.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[29Mar2025 16:51:17.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [usefulbackpacks] Found status: UP_TO_DATE Current: 2.0.1.124 Target: null
+[29Mar2025 16:51:17.693] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[29Mar2025 16:51:18.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.20.1-2.5.26 Target: 1.20.1-2.5.28
+[29Mar2025 16:51:18.123] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[29Mar2025 16:51:18.224] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.10
+[29Mar2025 16:51:18.225] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[29Mar2025 16:51:18.347] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[29Mar2025 16:51:18.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[29Mar2025 16:51:18.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.23 Target: null
+[29Mar2025 16:51:18.449] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[29Mar2025 16:51:18.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 2.1.3 Target: 2.1.3
+[29Mar2025 16:51:18.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[29Mar2025 16:51:18.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[29Mar2025 16:51:18.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Starting version check at https://api.modrinth.com/updates/tpehi7ww/forge_updates.json
+[29Mar2025 16:51:18.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_dungeons_andtaverns] Found status: OUTDATED Current: 3.0.3.f Target: 3.0.3.f+mod
+[29Mar2025 16:51:18.670] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[29Mar2025 16:51:18.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
+[29Mar2025 16:51:18.681] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[29Mar2025 16:51:18.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.29 Target: null
+[29Mar2025 16:51:18.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[29Mar2025 16:51:18.888] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[29Mar2025 16:51:19.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[29Mar2025 16:51:19.146] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[29Mar2025 16:51:19.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[29Mar2025 16:51:20.860] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23243!/assets/.mcassetsroot' uses unexpected schema
+[29Mar2025 16:51:20.860] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/servidor2.1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23243!/data/.mcassetsroot' uses unexpected schema
+[29Mar2025 16:51:21.554] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[29Mar2025 16:51:22.900] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[29Mar2025 16:51:22.986] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.2.jar
+[29Mar2025 16:51:24.622] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[29Mar2025 16:51:24.809] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3117 advancements
+[29Mar2025 16:51:24.840] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[29Mar2025 16:51:24.848] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[29Mar2025 16:51:24.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[29Mar2025 16:51:24.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[29Mar2025 16:51:24.873] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[29Mar2025 16:51:24.874] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[29Mar2025 16:51:24.874] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[29Mar2025 16:51:24.874] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[29Mar2025 16:51:24.874] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[29Mar2025 16:51:24.874] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[29Mar2025 16:51:24.874] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[29Mar2025 16:51:24.875] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[29Mar2025 16:51:24.875] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[29Mar2025 16:51:24.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[29Mar2025 16:51:24.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[29Mar2025 16:51:24.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[29Mar2025 16:51:24.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[29Mar2025 16:51:24.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[29Mar2025 16:51:24.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[29Mar2025 16:51:24.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[29Mar2025 16:51:24.876] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[29Mar2025 16:51:24.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[29Mar2025 16:51:24.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[29Mar2025 16:51:24.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[29Mar2025 16:51:24.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[29Mar2025 16:51:24.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[29Mar2025 16:51:24.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[29Mar2025 16:51:24.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[29Mar2025 16:51:24.877] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[29Mar2025 16:51:24.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[29Mar2025 16:51:24.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[29Mar2025 16:51:24.878] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[29Mar2025 16:51:26.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[29Mar2025 16:51:26.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[29Mar2025 16:51:26.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[29Mar2025 16:51:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[29Mar2025 16:51:26.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[29Mar2025 16:51:26.780] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[29Mar2025 16:51:26.863] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[29Mar2025 16:51:26.863] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[29Mar2025 16:51:26.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[29Mar2025 16:51:26.864] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[29Mar2025 16:51:26.891] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easyanvils
+[29Mar2025 16:51:26.893] [Server thread/INFO] [Puzzles Lib/]: Loading server config for easymagic
+[29Mar2025 16:51:26.894] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[29Mar2025 16:51:26.895] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for easymagic
+[29Mar2025 16:51:26.897] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Mar2025 16:51:26.899] [Thread-2/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[29Mar2025 16:51:27.112] [Server thread/INFO] [Framework/]: Loading server configs...
+[29Mar2025 16:51:27.130] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[29Mar2025 16:51:28.119] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[29Mar2025 16:51:31.032] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, minecraft:strongholds, minecraft:buried_treasures]
+[29Mar2025 16:51:31.032] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387313 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, minecraft:end_cities]
+[29Mar2025 16:51:31.033] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:3 potentially creating overlapping structures detected. Structure sets: [alexscaves:cake_cave, alexscaves:ferrocave]
+[29Mar2025 16:51:31.033] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost]
+[29Mar2025 16:51:31.033] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [minecraft:villages, nova_structures:villages_jungle, nova_structures:villages_swamp]
+[29Mar2025 16:51:31.033] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
+[29Mar2025 16:51:31.034] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:2 potentially creating overlapping structures detected. Structure sets: [alexscaves:ocean_trench, alexscaves:acid_pit]
+[29Mar2025 16:51:31.034] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [nova_structures:desert_ruins, nova_structures:jungle_ruins]
+[29Mar2025 16:51:31.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[29Mar2025 16:51:36.846] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.874] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.905] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.920] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.929] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.940] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.952] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.976] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.984] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:36.995] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:37.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:37.039] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:37.209] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[29Mar2025 16:51:37.711] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[29Mar2025 16:51:38.209] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[29Mar2025 16:51:38.469] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[29Mar2025 16:51:38.730] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7521 ms
+[29Mar2025 16:51:38.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.845s)! For help, type "help"
+[29Mar2025 16:51:38.778] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Mar2025 16:51:38.820] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[29Mar2025 16:51:38.830] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2035
+[29Mar2025 16:53:12.841] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b8366f3[id=<null>,name=Aleksito27,properties={},legacy=false] (/127.104.78.195:54555) lost connection: Disconnected
+[29Mar2025 16:53:19.696] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[29Mar2025 16:53:19.810] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aleksito27[/127.104.78.195:54727] logged in with entity id 736 at (439.2055859037498, 64.0, 2026.0942664578336)
+[29Mar2025 16:53:19.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 joined the game
+[29Mar2025 16:53:19.999] [Server thread/INFO] [Jade/]: Syncing config to Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb)
+[29Mar2025 16:53:20.959] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Aleksito27 (18)
+[29Mar2025 16:53:20.962] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Aleksito27
+[29Mar2025 16:53:24.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[29Mar2025 16:53:25.142] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6d84c9fc-5f86-333c-ba8f-c79bc2da53bb
+[29Mar2025 16:53:25.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Aleksito27 (6d84c9fc-5f86-333c-ba8f-c79bc2da53bb) successfully connected to voice chat
+[29Mar2025 16:55:35.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[29Mar2025 16:55:54.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[29Mar2025 16:58:36.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 moved wrongly!
+[29Mar2025 16:59:27.394] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=816, y=29, z=2235}
+[29Mar2025 16:59:34.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=852, y=9, z=2229}
+[29Mar2025 16:59:35.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Mine? Mine? Mine?]
+[29Mar2025 16:59:42.360] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=866, y=-6, z=2292}
+[29Mar2025 17:00:25.895] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=901, y=-5, z=2201}
+[29Mar2025 17:00:32.951] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=811, y=-3, z=2369}
+[29Mar2025 17:00:35.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=813, y=16, z=2387}
+[29Mar2025 17:00:40.092] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=847, y=-11, z=2406}
+[29Mar2025 17:01:17.851] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=701, y=-43, z=2495}
+[29Mar2025 17:01:17.942] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=622, y=13, z=2489}
+[29Mar2025 17:01:32.346] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=852, y=8, z=2513}
+[29Mar2025 17:01:36.745] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=594, y=-43, z=2542}
+[29Mar2025 17:01:54.645] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=661, y=16, z=2575}
+[29Mar2025 17:01:54.741] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=798, y=98, z=2561}
+[29Mar2025 17:02:01.832] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=881, y=-34, z=2607}
+[29Mar2025 17:02:04.640] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=557, y=-49, z=2614}
+[29Mar2025 17:02:10.324] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Erasmo'/3367, l='ServerLevel[world]', x=796.07, y=108.50, z=2532.49] died, message: 'Erasmo suffocated in a wall'
+[29Mar2025 17:02:10.325] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Erasmo'/3367, l='ServerLevel[world]', x=796.07, y=108.50, z=2532.49] died: Erasmo suffocated in a wall
+[29Mar2025 17:02:17.242] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=764, y=32, z=2649}
+[29Mar2025 17:02:34.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=853, y=-32, z=2704}
+[29Mar2025 17:02:39.142] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=924, y=21, z=2725}
+[29Mar2025 17:02:46.693] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=742, y=33, z=2775}
+[29Mar2025 17:03:03.341] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=730, y=-10, z=2825}
+[29Mar2025 17:03:20.641] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=552, y=-35, z=2844}
+[29Mar2025 17:03:32.388] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=524, y=-29, z=2699}
+[29Mar2025 17:03:43.845] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=504, y=27, z=2690}
+[29Mar2025 17:04:07.628] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=611, y=-26, z=2897}
+[29Mar2025 17:04:16.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=447, y=-6, z=2682}
+[29Mar2025 17:04:17.537] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=423, y=-11, z=2533}
+[29Mar2025 17:04:35.494] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=577, y=48, z=2935}
+[29Mar2025 17:04:35.498] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=593, y=45, z=2934}
+[29Mar2025 17:04:40.047] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=588, y=-53, z=2948}
+[29Mar2025 17:04:40.287] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=688, y=-18, z=2955}
+[29Mar2025 17:04:41.495] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=414, y=27, z=2733}
+[29Mar2025 17:04:52.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=369, y=-29, z=2872}
+[29Mar2025 17:04:54.850] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=364, y=-5, z=2816}
+[29Mar2025 17:05:03.303] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=663, y=-18, z=2998}
+[29Mar2025 17:05:09.639] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=604, y=21, z=3017}
+[29Mar2025 17:05:21.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=722, y=-44, z=3032}
+[29Mar2025 17:05:36.943] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=861, y=-36, z=2980}
+[29Mar2025 17:07:02.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9904ms or 198 ticks behind
+[29Mar2025 17:07:03.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 moved too quickly! 9.64073201459928,0.7967356006687112,3.362571735394795
+[29Mar2025 17:09:10.894] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=994, y=-9, z=2669}
+[29Mar2025 17:10:05.791] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1090, y=-32, z=2438}
+[29Mar2025 17:10:18.251] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1165, y=-2, z=2533}
+[29Mar2025 17:10:18.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1154, y=-18, z=2823}
+[29Mar2025 17:10:19.401] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1169, y=25, z=2813}
+[29Mar2025 17:10:19.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1173, y=-38, z=2825}
+[29Mar2025 17:10:20.039] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1178, y=-48, z=2483}
+[29Mar2025 17:10:38.395] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1216, y=-33, z=2835}
+[29Mar2025 17:10:46.140] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1260, y=-43, z=2869}
+[29Mar2025 17:10:48.940] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1272, y=-36, z=2835}
+[29Mar2025 17:10:49.290] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1262, y=-9, z=2885}
+[29Mar2025 17:10:50.892] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1179, y=-41, z=2899}
+[29Mar2025 17:11:04.990] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1022, y=-35, z=2940}
+[29Mar2025 17:11:13.443] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1308, y=-44, z=2968}
+[29Mar2025 17:11:41.389] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1244, y=20, z=3030}
+[29Mar2025 17:11:45.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1146, y=28, z=3040}
+[29Mar2025 17:11:46.344] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1431, y=-52, z=2848}
+[29Mar2025 17:11:50.502] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1458, y=-13, z=2908}
+[29Mar2025 17:11:50.803] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1466, y=-7, z=2727}
+[29Mar2025 17:11:50.939] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1457, y=-15, z=2998}
+[29Mar2025 17:12:02.037] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1532, y=-35, z=2796}
+[29Mar2025 17:12:04.137] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1542, y=-13, z=2907}
+[29Mar2025 17:12:06.492] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1521, y=-9, z=2646}
+[29Mar2025 17:12:21.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Arag the Lurker'/8531, l='ServerLevel[world]', x=1478.57, y=-48.49, z=2783.46] died: Arag the Lurker tried to swim in lava
+[29Mar2025 17:12:25.439] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1479, y=-51, z=2584}
+[29Mar2025 17:12:27.842] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1510, y=-3, z=2560}
+[29Mar2025 17:12:27.890] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1392, y=-27, z=2565}
+[29Mar2025 17:12:30.654] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1444, y=-48, z=2549}
+[29Mar2025 17:12:53.790] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1457, y=-50, z=2401}
+[29Mar2025 17:12:53.838] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1491, y=-11, z=2406}
+[29Mar2025 17:12:56.344] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1554, y=-16, z=2384}
+[29Mar2025 17:13:00.240] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1169, y=-35, z=2430}
+[29Mar2025 17:13:00.242] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1174, y=29, z=2395}
+[29Mar2025 17:13:07.004] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1490, y=-16, z=2343}
+[29Mar2025 17:13:19.196] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1078, y=-35, z=2327}
+[29Mar2025 17:13:19.240] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1167, y=-27, z=2314}
+[29Mar2025 17:13:24.393] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1078, y=6, z=2285}
+[29Mar2025 17:13:30.888] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1022, y=-46, z=2391}
+[29Mar2025 17:13:30.892] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1022, y=-36, z=2289}
+[29Mar2025 17:13:36.664] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1107, y=23, z=2251}
+[29Mar2025 17:13:37.092] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1360, y=17, z=2246}
+[29Mar2025 17:13:54.256] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1121, y=-1, z=2179}
+[29Mar2025 17:16:44.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1161, y=-13, z=2171}
+[29Mar2025 17:17:03.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [Master Siphoner]
+[29Mar2025 17:17:10.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/9928, l='ServerLevel[world]', x=1225.85, y=75.00, z=2339.01] died: Klaudius Bloodglare was slain by Aleksito27 using [Killer Of Virgins]
+[29Mar2025 17:18:54.238] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1591, y=-48, z=2373}
+[29Mar2025 17:19:06.187] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1656, y=-41, z=2525}
+[29Mar2025 17:19:13.298] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1691, y=-30, z=2517}
+[29Mar2025 17:19:17.237] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1727, y=-34, z=2236}
+[29Mar2025 17:19:26.294] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1750, y=-7, z=2300}
+[29Mar2025 17:19:40.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[29Mar2025 17:20:04.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[29Mar2025 17:21:30.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14066, l='ServerLevel[world]', x=16.06, y=111.77, z=73.02] died: Restless Spirit starved to death
+[29Mar2025 17:22:00.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[29Mar2025 17:22:25.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14223, l='ServerLevel[world]', x=47.52, y=130.88, z=168.40] died: Restless Spirit starved to death
+[29Mar2025 17:23:59.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=54, z=381} BlockPos{x=229, y=53, z=381}
+[29Mar2025 17:23:59.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=54, z=381} BlockPos{x=229, y=53, z=381}
+[29Mar2025 17:23:59.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=54, z=381} BlockPos{x=229, y=53, z=381}
+[29Mar2025 17:23:59.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=229, y=54, z=381} BlockPos{x=229, y=53, z=381}
+[29Mar2025 17:26:15.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/16970, l='ServerLevel[world]', x=458.70, y=30.59, z=741.78] died: Sanctum Cultist tried to swim in lava
+[29Mar2025 17:26:57.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/16742, l='ServerLevel[world]', x=432.53, y=37.02, z=746.52] died: Sanctum Cultist burned to death
+[29Mar2025 17:27:19.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17216, l='ServerLevel[world]', x=425.23, y=50.70, z=656.55] died: Restless Spirit starved to death
+[29Mar2025 17:27:28.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [An Illager Refuge?]
+[29Mar2025 17:28:04.450] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17339, l='ServerLevel[world]', x=451.06, y=103.80, z=668.93] died: Restless Spirit starved to death
+[29Mar2025 17:28:38.162] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17418, l='ServerLevel[world]', x=492.27, y=72.86, z=811.67] died: Restless Spirit starved to death
+[29Mar2025 17:28:42.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17444, l='ServerLevel[world]', x=337.39, y=64.44, z=771.29] died: Restless Spirit starved to death
+[29Mar2025 17:28:42.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17446, l='ServerLevel[world]', x=352.10, y=68.74, z=775.43] died: Restless Spirit starved to death
+[29Mar2025 17:28:43.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17473, l='ServerLevel[world]', x=491.78, y=115.12, z=716.28] died: Restless Spirit starved to death
+[29Mar2025 17:28:43.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17483, l='ServerLevel[world]', x=455.62, y=103.84, z=682.68] died: Restless Spirit starved to death
+[29Mar2025 17:28:43.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17485, l='ServerLevel[world]', x=446.29, y=106.55, z=651.18] died: Restless Spirit starved to death
+[29Mar2025 17:28:43.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17487, l='ServerLevel[world]', x=456.24, y=113.63, z=660.75] died: Restless Spirit starved to death
+[29Mar2025 17:28:43.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17490, l='ServerLevel[world]', x=444.23, y=102.81, z=680.34] died: Restless Spirit starved to death
+[29Mar2025 17:28:46.306] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17517, l='ServerLevel[world]', x=478.46, y=117.94, z=671.48] died: Restless Spirit starved to death
+[29Mar2025 17:28:46.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17521, l='ServerLevel[world]', x=483.26, y=87.62, z=839.04] died: Restless Spirit starved to death
+[29Mar2025 17:28:46.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17523, l='ServerLevel[world]', x=512.13, y=106.54, z=843.38] died: Restless Spirit starved to death
+[29Mar2025 17:28:48.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17533, l='ServerLevel[world]', x=533.14, y=52.84, z=694.64] died: Restless Spirit starved to death
+[29Mar2025 17:28:54.100] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Mar2025 17:28:56.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17544, l='ServerLevel[world]', x=542.59, y=86.75, z=728.62] died: Restless Spirit starved to death
+[29Mar2025 17:28:56.457] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17546, l='ServerLevel[world]', x=538.98, y=94.46, z=741.98] died: Restless Spirit starved to death
+[29Mar2025 17:29:00.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17582, l='ServerLevel[world]', x=504.70, y=85.29, z=792.50] died: Restless Spirit starved to death
+[29Mar2025 17:29:03.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17602, l='ServerLevel[world]', x=579.13, y=57.63, z=804.90] died: Restless Spirit starved to death
+[29Mar2025 17:29:05.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17624, l='ServerLevel[world]', x=556.30, y=79.21, z=762.85] died: Restless Spirit starved to death
+[29Mar2025 17:29:05.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17629, l='ServerLevel[world]', x=526.21, y=85.89, z=817.56] died: Restless Spirit starved to death
+[29Mar2025 17:29:05.410] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17631, l='ServerLevel[world]', x=554.34, y=89.64, z=840.48] died: Restless Spirit starved to death
+[29Mar2025 17:29:05.411] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17633, l='ServerLevel[world]', x=550.08, y=86.72, z=825.61] died: Restless Spirit starved to death
+[29Mar2025 17:29:09.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=604, y=62, z=1006}
+[29Mar2025 17:29:11.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17730, l='ServerLevel[world]', x=577.31, y=72.77, z=801.93] died: Restless Spirit starved to death
+[29Mar2025 17:29:11.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17732, l='ServerLevel[world]', x=589.09, y=73.32, z=792.39] died: Restless Spirit starved to death
+[29Mar2025 17:29:11.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17736, l='ServerLevel[world]', x=577.39, y=78.04, z=774.01] died: Restless Spirit starved to death
+[29Mar2025 17:29:15.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17832, l='ServerLevel[world]', x=487.67, y=56.79, z=806.67] died: Restless Spirit starved to death
+[29Mar2025 17:29:18.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17902, l='ServerLevel[world]', x=535.44, y=85.17, z=824.61] died: Restless Spirit starved to death
+[29Mar2025 17:29:19.302] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=615, y=54, z=1014}
+[29Mar2025 17:29:19.307] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=674, y=62, z=1003}
+[29Mar2025 17:29:23.059] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18117, l='ServerLevel[world]', x=572.64, y=76.87, z=770.04] died: Restless Spirit starved to death
+[29Mar2025 17:29:25.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18141, l='ServerLevel[world]', x=574.64, y=92.26, z=832.19] died: Restless Spirit starved to death
+[29Mar2025 17:29:27.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18160, l='ServerLevel[world]', x=520.76, y=84.07, z=728.34] died: Restless Spirit starved to death
+[29Mar2025 17:29:32.558] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18220, l='ServerLevel[world]', x=509.38, y=64.58, z=711.17] died: Restless Spirit starved to death
+[29Mar2025 17:29:32.559] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18222, l='ServerLevel[world]', x=524.15, y=69.35, z=710.43] died: Restless Spirit starved to death
+[29Mar2025 17:29:36.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18244, l='ServerLevel[world]', x=525.32, y=100.76, z=787.59] died: Restless Spirit starved to death
+[29Mar2025 17:29:40.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18324, l='ServerLevel[world]', x=547.74, y=84.34, z=724.88] died: Restless Spirit starved to death
+[29Mar2025 17:29:40.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18326, l='ServerLevel[world]', x=541.37, y=91.36, z=706.34] died: Restless Spirit starved to death
+[29Mar2025 17:29:40.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18332, l='ServerLevel[world]', x=587.23, y=72.21, z=785.32] died: Restless Spirit starved to death
+[29Mar2025 17:29:43.356] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18376, l='ServerLevel[world]', x=474.57, y=114.97, z=740.40] died: Restless Spirit starved to death
+[29Mar2025 17:29:48.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18406, l='ServerLevel[world]', x=552.88, y=86.00, z=729.00] died: Restless Spirit starved to death
+[29Mar2025 17:29:48.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18408, l='ServerLevel[world]', x=539.04, y=100.08, z=737.17] died: Restless Spirit starved to death
+[29Mar2025 17:29:48.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18410, l='ServerLevel[world]', x=557.35, y=92.44, z=730.30] died: Restless Spirit starved to death
+[29Mar2025 17:29:50.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18453, l='ServerLevel[world]', x=561.01, y=61.94, z=802.92] died: Restless Spirit starved to death
+[29Mar2025 17:29:50.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18455, l='ServerLevel[world]', x=567.19, y=52.65, z=790.68] died: Restless Spirit starved to death
+[29Mar2025 17:29:58.748] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=665, y=53, z=1033}
+[29Mar2025 17:29:58.748] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=664, y=53, z=1034}
+[29Mar2025 17:29:58.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=665, y=53, z=1031}
+[29Mar2025 17:29:58.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=662, y=53, z=1034}
+[29Mar2025 17:29:58.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=669, y=53, z=1026}
+[29Mar2025 17:29:58.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=664, y=53, z=1030}
+[29Mar2025 17:29:58.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=661, y=53, z=1033}
+[29Mar2025 17:29:58.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=662, y=53, z=1030}
+[29Mar2025 17:29:58.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=661, y=53, z=1031}
+[29Mar2025 17:29:58.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=677, y=44, z=1030}
+[29Mar2025 17:29:58.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=676, y=44, z=1031}
+[29Mar2025 17:29:58.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=672, y=44, z=1026}
+[29Mar2025 17:29:58.750] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=680, y=44, z=1033}
+[29Mar2025 17:29:58.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=679, y=44, z=1034}
+[29Mar2025 17:29:58.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=680, y=44, z=1031}
+[29Mar2025 17:29:58.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=677, y=44, z=1034}
+[29Mar2025 17:29:58.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=679, y=44, z=1030}
+[29Mar2025 17:29:58.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=676, y=44, z=1033}
+[29Mar2025 17:30:03.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18530, l='ServerLevel[world]', x=564.86, y=94.59, z=837.34] died: Restless Spirit starved to death
+[29Mar2025 17:30:06.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=505, y=71, z=862} BlockPos{x=505, y=70, z=864}
+[29Mar2025 17:30:12.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18604, l='ServerLevel[world]', x=570.68, y=81.49, z=862.08] died: Restless Spirit starved to death
+[29Mar2025 17:30:12.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18606, l='ServerLevel[world]', x=573.49, y=80.36, z=861.49] died: Restless Spirit starved to death
+[29Mar2025 17:30:12.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18609, l='ServerLevel[world]', x=568.63, y=85.70, z=851.93] died: Restless Spirit starved to death
+[29Mar2025 17:30:16.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18661, l='ServerLevel[world]', x=486.22, y=82.66, z=782.75] died: Restless Spirit starved to death
+[29Mar2025 17:30:16.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18668, l='ServerLevel[world]', x=571.99, y=65.01, z=838.59] died: Restless Spirit starved to death
+[29Mar2025 17:30:18.404] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=719, y=62, z=1003}
+[29Mar2025 17:30:20.656] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18775, l='ServerLevel[world]', x=611.46, y=60.33, z=821.48] died: Restless Spirit starved to death
+[29Mar2025 17:30:23.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=531, y=71, z=872} BlockPos{x=532, y=71, z=871}
+[29Mar2025 17:30:26.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=734, y=62, z=1033}
+[29Mar2025 17:30:27.812] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18893, l='ServerLevel[world]', x=476.52, y=87.55, z=830.42] died: Restless Spirit starved to death
+[29Mar2025 17:30:30.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=555, y=69, z=869} BlockPos{x=554, y=69, z=869}
+[29Mar2025 17:30:31.509] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=737, y=62, z=1058}
+[29Mar2025 17:30:37.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=570, y=70, z=863} BlockPos{x=570, y=71, z=866}
+[29Mar2025 17:30:38.811] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19019, l='ServerLevel[world]', x=557.23, y=47.37, z=781.43] died: Restless Spirit starved to death
+[29Mar2025 17:30:41.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=579, y=70, z=860} BlockPos{x=575, y=71, z=862}
+[29Mar2025 17:30:43.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19120, l='ServerLevel[world]', x=541.31, y=95.55, z=801.80] died: Restless Spirit starved to death
+[29Mar2025 17:30:43.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19122, l='ServerLevel[world]', x=565.10, y=90.45, z=826.07] died: Restless Spirit starved to death
+[29Mar2025 17:30:43.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19124, l='ServerLevel[world]', x=541.96, y=89.28, z=842.51] died: Restless Spirit starved to death
+[29Mar2025 17:30:43.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19126, l='ServerLevel[world]', x=548.74, y=98.74, z=846.28] died: Restless Spirit starved to death
+[29Mar2025 17:31:10.665] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19626, l='ServerLevel[world]', x=562.50, y=96.72, z=838.43] died: Restless Spirit starved to death
+[29Mar2025 17:31:10.666] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19630, l='ServerLevel[world]', x=560.93, y=87.37, z=824.74] died: Restless Spirit starved to death
+[29Mar2025 17:31:13.456] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19665, l='ServerLevel[world]', x=601.77, y=71.00, z=799.39] died: Restless Spirit starved to death
+[29Mar2025 17:31:24.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/17824, l='ServerLevel[world]', x=604.26, y=-20.00, z=958.34] died: Toxic Slime was killed
+[29Mar2025 17:31:26.246] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Hoglin['Dinnerbone'/18728, l='ServerLevel[world]', x=678.50, y=58.00, z=1032.75] died: Dinnerbone suffocated in a wall
+[29Mar2025 17:31:37.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[29Mar2025 17:31:44.059] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=607, y=62, z=1091}
+[29Mar2025 17:31:45.706] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=722, y=62, z=1103}
+[29Mar2025 17:31:51.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [In the Hall of the Piglin King]
+[29Mar2025 17:31:51.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=682, y=62, z=1106}
+[29Mar2025 17:31:52.205] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=652, y=62, z=1106}
+[29Mar2025 17:32:00.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[29Mar2025 17:32:09.859] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/19923, l='ServerLevel[world]', x=646.70, y=36.00, z=1061.30] died: Piglin Knight suffocated in a wall
+[29Mar2025 17:32:31.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set 39 experience levels on Aleksito27]
+[29Mar2025 17:33:27.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20472, l='ServerLevel[world]', x=782.24, y=110.78, z=1016.64] died: Restless Spirit starved to death
+[29Mar2025 17:33:27.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20474, l='ServerLevel[world]', x=784.52, y=119.61, z=1028.45] died: Restless Spirit starved to death
+[29Mar2025 17:33:43.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [Hot Tourist Destinations]
+[29Mar2025 17:33:53.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20538, l='ServerLevel[world]', x=742.31, y=108.46, z=1016.18] died: Restless Spirit starved to death
+[29Mar2025 17:34:13.092] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20118, l='ServerLevel[world]', x=733.09, y=-20.00, z=1024.03] died: Toxic Slime was killed
+[29Mar2025 17:34:13.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20119, l='ServerLevel[world]', x=720.91, y=-20.00, z=1039.26] died: Toxic Slime was killed
+[29Mar2025 17:34:13.093] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20120, l='ServerLevel[world]', x=716.74, y=-20.00, z=1040.24] died: Toxic Slime was killed
+[29Mar2025 17:34:15.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/20457, l='ServerLevel[world]', x=820.52, y=65.00, z=1018.54] died: Headless Warrior was shot by Piglin
+[29Mar2025 17:34:17.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20186, l='ServerLevel[world]', x=707.33, y=-20.00, z=1025.04] died: Toxic Slime was killed
+[29Mar2025 17:34:20.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20643, l='ServerLevel[world]', x=838.99, y=70.28, z=1048.87] died: Restless Spirit starved to death
+[29Mar2025 17:34:52.709] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20911, l='ServerLevel[world]', x=786.16, y=114.09, z=1158.94] died: Restless Spirit starved to death
+[29Mar2025 17:35:02.007] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[29Mar2025 17:35:02.008] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[29Mar2025 17:35:14.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21002, l='ServerLevel[world]', x=815.81, y=132.84, z=1116.42] died: Restless Spirit starved to death
+[29Mar2025 17:35:18.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21025, l='ServerLevel[world]', x=918.20, y=62.58, z=1102.31] died: Restless Spirit starved to death
+[29Mar2025 17:36:29.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[29Mar2025 17:37:19.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[29Mar2025 17:37:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[29Mar2025 17:37:48.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[29Mar2025 17:39:02.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[29Mar2025 17:39:07.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[29Mar2025 17:40:08.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 lost connection: Disconnected
+[29Mar2025 17:40:08.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 left the game
+[29Mar2025 17:40:08.661] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Aleksito27
+[29Mar2025 17:40:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Mar2025 17:40:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Mar2025 17:40:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Mar2025 17:40:09.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Mar2025 17:40:09.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Mar2025 17:40:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[29Mar2025 17:40:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Mar2025 17:40:09.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Mar2025 17:40:09.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Mar2025 17:40:09.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[29Mar2025 17:40:09.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Mar2025 17:40:09.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Mar2025 17:40:09.957] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Mar2025 17:40:09.958] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[29Mar2025 17:40:09.959] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29Mar2025 17:40:09.961] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
