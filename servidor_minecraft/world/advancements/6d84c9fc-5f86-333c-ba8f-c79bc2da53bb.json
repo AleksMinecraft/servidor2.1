@@ -85,14 +85,23 @@
       "minecraft:sunflower_plains": "2025-03-27 17:27:41 +0000",
       "minecraft:birch_forest": "2025-03-27 04:53:51 +0000",
       "minecraft:windswept_hills": "2025-03-27 03:54:09 +0000",
+      "minecraft:bamboo_jungle": "2025-03-29 05:09:34 +0000",
+      "minecraft:wooded_badlands": "2025-03-29 05:20:57 +0000",
+      "minecraft:badlands": "2025-03-29 05:18:44 +0000",
       "minecraft:beach": "2025-03-27 16:44:48 +0000",
+      "minecraft:dark_forest": "2025-03-29 05:08:49 +0000",
+      "minecraft:sparse_jungle": "2025-03-29 05:09:47 +0000",
       "minecraft:river": "2025-03-27 03:05:40 +0000",
       "minecraft:dripstone_caves": "2025-03-27 03:10:32 +0000",
       "minecraft:swamp": "2025-03-29 04:37:35 +0000",
       "minecraft:cold_ocean": "2025-03-27 16:45:02 +0000",
       "minecraft:forest": "2025-03-27 03:26:31 +0000",
+      "minecraft:lush_caves": "2025-03-29 05:11:55 +0000",
+      "minecraft:desert": "2025-03-29 05:19:37 +0000",
       "minecraft:windswept_forest": "2025-03-27 04:25:43 +0000",
+      "minecraft:jungle": "2025-03-29 05:09:25 +0000",
       "minecraft:flower_forest": "2025-03-27 17:29:03 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-29 05:06:49 +0000",
       "minecraft:deep_dark": "2025-03-27 18:09:52 +0000",
       "minecraft:meadow": "2025-03-27 04:57:39 +0000",
       "minecraft:windswept_gravelly_hills": "2025-03-27 16:48:33 +0000",
@@ -5208,89 +5217,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:nether/create_full_beacon": {
     "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
+      "beacon": "2025-03-29 03:50:38 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-03-29 04:57:46 +0000"
-    },
-    "done": false
+    "done": true
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_warped": "2025-03-29 04:08:40 +0000"
     },
     "done": false
-  },
-  "minecraft:nether/create_full_beacon": {
-    "criteria": {
-      "beacon": "2025-03-29 03:50:38 +0000"
-    },
-    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
@@ -5340,9 +5277,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
-      "discover": "2025-03-29 04:40:13 +0000"
+      "has_nether_bricks": "2025-03-29 04:09:45 +0000"
     },
     "done": true
   },
@@ -5358,9 +5295,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+  "alexscaves:alexscaves/discover_magnetic_caves": {
     "criteria": {
-      "has_nether_bricks": "2025-03-29 04:09:45 +0000"
+      "discover": "2025-03-29 04:40:13 +0000"
     },
     "done": true
   },
@@ -5373,6 +5310,84 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-03-29 04:53:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-03-29 05:29:57 +0000"
+    },
+    "done": false
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-03-29 05:12:06 +0000"
     },
     "done": true
   },
