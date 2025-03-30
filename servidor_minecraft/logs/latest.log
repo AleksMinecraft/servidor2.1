@@ -572,3 +572,79 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Mar2025 21:33:10.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [You Need a Mint]
 [30Mar2025 21:34:26.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Ashes 'n Bones]
 [30Mar2025 21:34:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:34:55.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> sabne como se repara un arco
+[30Mar2025 21:35:02.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> saben
+[30Mar2025 21:35:16.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manuel_Jota_23> encantado?
+[30Mar2025 21:35:22.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> si webon
+[30Mar2025 21:35:44.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manuel_Jota_23> fijate si ese arco tiene reparacion
+[30Mar2025 21:36:15.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> no tienen fue
+[30Mar2025 21:36:24.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manuel_Jota_23> con hilo
+[30Mar2025 21:36:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> que
+[30Mar2025 21:36:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:36:53.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manuel_Jota_23> hilo pe
+[30Mar2025 21:37:10.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> haya no entiendi pero grasias
+[30Mar2025 21:37:27.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manuel_Jota_23> o busca en youtube y ya xd
+[30Mar2025 21:37:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xd
+[30Mar2025 21:38:02.697] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:end_city took 134 ms
+[30Mar2025 21:38:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to -351.500000, 48.000000, -1615.500000]
+[30Mar2025 21:38:13.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Manuel_Jota_23 moved too quickly! 5.893124511218957,-4.252203340253729,-7.053346197050132
+[30Mar2025 21:38:16.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 moved too quickly! 0.0,-16.00426489416023,0.0
+[30Mar2025 21:38:19.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[30Mar2025 21:38:20.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 fell out of the world
+[30Mar2025 21:38:20.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Aleksito27 with unique ID travelersbackpack.bat_30.03.2025-21.38.20.dat
+[30Mar2025 21:38:20.885] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[30Mar2025 21:38:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xdd
+[30Mar2025 21:38:30.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manuel_Jota_23> xd
+[30Mar2025 21:38:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 21:38:46.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [The City at the End of the Game]
+[30Mar2025 21:39:52.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Sky's the Limit]
+[30Mar2025 21:40:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> que es curse of bunes
+[30Mar2025 21:40:17.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Manuel_Jota_23> traduce
+[30Mar2025 21:41:24.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/46110, l='ServerLevel[world]', x=-277.29, y=41.00, z=-1448.91] died: Agizahr the Archmage was slain by Aleksito27 using [Killer Of Virgins]
+[30Mar2025 21:42:00.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> como que maldicion de huesos
+[30Mar2025 21:42:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Aleksito27> cuanto te pegan la armadura hace daño
+[30Mar2025 21:42:26.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> aya
+[30Mar2025 21:42:26.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Aleksito27 to Manuel_Jota_23]
+[30Mar2025 21:42:31.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Desolation]
+[30Mar2025 21:42:34.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Desolation]
+[30Mar2025 21:43:21.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Three Little Birds]
+[30Mar2025 21:43:22.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Three Little Birds]
+[30Mar2025 21:46:42.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=126, z=26} BlockPos{x=7, y=128, z=16}
+[30Mar2025 21:46:42.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=126, z=26} BlockPos{x=8, y=129, z=16}
+[30Mar2025 21:46:43.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:47:13.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has reached the goal [Magic Siphoner]
+[30Mar2025 21:47:23.150] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-289, y=-46, z=127}
+[30Mar2025 21:47:23.491] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-297, y=-41, z=-161}
+[30Mar2025 21:47:28.493] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-319, y=11, z=-125}
+[30Mar2025 21:48:19.091] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-334, y=8, z=107}
+[30Mar2025 21:48:19.299] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-336, y=-2, z=180}
+[30Mar2025 21:48:34.598] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-361, y=-36, z=100}
+[30Mar2025 21:48:55.298] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-369, y=19, z=-76}
+[30Mar2025 21:48:59.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Turtle['The Boss'/47493, l='ServerLevel[world]', x=979.54, y=53.06, z=-1829.36] died: The Boss was slain by Manuel_Jota_23 using [GABY LEVELING]
+[30Mar2025 21:49:18.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [Death Will Not Be Enough]
+[30Mar2025 21:49:50.944] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-403, y=-22, z=174}
+[30Mar2025 21:50:08.467] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-460, y=15, z=18}
+[30Mar2025 21:50:08.596] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-458, y=-13, z=-37}
+[30Mar2025 21:50:08.996] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-454, y=-14, z=250}
+[30Mar2025 21:50:14.893] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-469, y=-48, z=-75}
+[30Mar2025 21:50:15.292] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-477, y=-41, z=-137}
+[30Mar2025 21:50:25.399] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-509, y=64, z=240}
+[30Mar2025 21:50:30.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-517, y=-54, z=111}
+[30Mar2025 21:50:34.753] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-531, y=-16, z=111}
+[30Mar2025 21:50:43.842] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-564, y=-39, z=-54}
+[30Mar2025 21:51:38.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:51:58.648] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-638, y=22, z=-153}
+[30Mar2025 21:52:17.329] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-654, y=0, z=253}
+[30Mar2025 21:52:48.218] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-378, y=-55, z=298}
+[30Mar2025 21:52:48.224] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-489, y=-17, z=289}
+[30Mar2025 21:52:58.777] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-384, y=10, z=334}
+[30Mar2025 21:53:58.734] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-636, y=-18, z=370}
+[30Mar2025 21:54:07.212] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-680, y=-31, z=333}
+[30Mar2025 21:54:10.981] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-648, y=24, z=399}
+[30Mar2025 21:54:13.180] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-482, y=4, z=408}
+[30Mar2025 21:54:14.055] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-435, y=-9, z=412}
+[30Mar2025 21:54:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[30Mar2025 21:54:18.444] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-695, y=-18, z=324}
+[30Mar2025 21:54:32.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 21:54:36.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 moved wrongly!
+[30Mar2025 21:54:39.303] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-453, y=-25, z=443}

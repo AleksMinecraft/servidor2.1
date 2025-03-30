@@ -80,6 +80,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-03-27 04:56:45 +0000",
+      "minecraft:river": "2025-03-30 21:48:25 +0000",
+      "minecraft:forest": "2025-03-30 21:48:39 +0000",
+      "minecraft:meadow": "2025-03-30 21:49:45 +0000",
       "minecraft:plains": "2025-03-27 05:04:53 +0000"
     },
     "done": false
@@ -1544,6 +1547,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-03-30 21:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-03-30 21:32:36 +0000"
@@ -1559,6 +1568,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2025-03-30 21:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-03-30 21:43:41 +0000"
     },
     "done": true
   },

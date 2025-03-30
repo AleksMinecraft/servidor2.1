@@ -1238,6 +1238,7 @@
       "minecraft:blaze": "2025-03-29 04:09:41 +0000",
       "minecraft:skeleton": "2025-03-29 02:53:02 +0000",
       "minecraft:hoglin": "2025-03-30 21:00:40 +0000",
+      "minecraft:guardian": "2025-03-30 21:47:05 +0000",
       "minecraft:magma_cube": "2025-03-30 21:00:50 +0000",
       "minecraft:spider": "2025-03-27 17:35:06 +0000",
       "minecraft:creeper": "2025-03-27 17:00:49 +0000",
@@ -1246,6 +1247,7 @@
       "minecraft:ender_dragon": "2025-03-30 21:27:00 +0000",
       "minecraft:cave_spider": "2025-03-27 18:02:31 +0000",
       "minecraft:piglin": "2025-03-29 04:05:36 +0000",
+      "minecraft:enderman": "2025-03-30 21:36:58 +0000",
       "minecraft:zombie": "2025-03-27 17:02:05 +0000",
       "minecraft:drowned": "2025-03-29 02:56:16 +0000"
     },
@@ -2819,6 +2821,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-03-30 21:43:21 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-03-30 20:47:21 +0000"
@@ -2831,9 +2839,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-30 21:49:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-03-30 21:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-30 21:49:06 +0000"
     },
     "done": true
   },
@@ -2888,6 +2908,12 @@
   "cataclysm:find_burning_arena": {
     "criteria": {
       "arena": "2025-03-30 20:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-30 21:49:06 +0000"
     },
     "done": true
   },
@@ -2966,6 +2992,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-03-30 21:00:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-03-30 21:47:13 +0000"
     },
     "done": true
   },
@@ -3089,6 +3121,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-30 21:49:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-30 21:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2025-03-30 21:25:39 +0000"
@@ -3101,6 +3145,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-30 21:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-03-30 21:49:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_tablet": {
     "criteria": {
       "has_magic_tablet": "2025-03-30 21:06:09 +0000"
@@ -3110,6 +3166,18 @@
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-03-30 20:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-30 21:49:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-03-30 21:45:43 +0000"
     },
     "done": true
   },
@@ -3152,6 +3220,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-03-30 20:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-03-30 21:49:06 +0000"
     },
     "done": true
   },
@@ -3209,9 +3283,21 @@
     },
     "done": true
   },
+  "nullscape:root": {
+    "criteria": {
+      "nullscape:crystal_peaks": "2025-03-30 21:42:31 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/magma_cube": {
     "criteria": {
       "has_magma_cream": "2025-03-30 21:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-30 21:49:18 +0000"
     },
     "done": true
   },
