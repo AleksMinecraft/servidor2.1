@@ -82,6 +82,7 @@
       "minecraft:snowy_slopes": "2025-03-27 18:10:11 +0000",
       "minecraft:taiga": "2025-03-29 03:14:03 +0000",
       "minecraft:cherry_grove": "2025-03-26 17:16:52 +0000",
+      "minecraft:badlands": "2025-03-30 20:58:14 +0000",
       "minecraft:beach": "2025-03-29 02:48:29 +0000",
       "minecraft:river": "2025-03-27 16:55:39 +0000",
       "minecraft:dripstone_caves": "2025-03-27 18:08:33 +0000",
@@ -2788,6 +2789,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_foundry": {
+    "criteria": {
+      "location0": "2025-03-30 20:58:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/stolen_magic": {
     "criteria": {
       "coded_trigger": "2025-03-30 20:47:21 +0000"
@@ -2842,6 +2849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-30 20:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-03-30 20:43:41 +0000"
@@ -2857,6 +2870,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-30 20:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-03-30 20:59:21 +0000"
     },
     "done": true
   },
