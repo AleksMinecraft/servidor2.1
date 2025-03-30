@@ -1244,7 +1244,9 @@
       "minecraft:creeper": "2025-03-27 17:00:49 +0000",
       "minecraft:zombified_piglin": "2025-03-29 04:09:50 +0000",
       "minecraft:wither_skeleton": "2025-03-27 17:45:01 +0000",
+      "minecraft:husk": "2025-03-30 21:59:20 +0000",
       "minecraft:ender_dragon": "2025-03-30 21:27:00 +0000",
+      "minecraft:shulker": "2025-03-30 21:56:20 +0000",
       "minecraft:cave_spider": "2025-03-27 18:02:31 +0000",
       "minecraft:piglin": "2025-03-29 04:05:36 +0000",
       "minecraft:enderman": "2025-03-30 21:36:58 +0000",
@@ -2953,6 +2955,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/soul_elytra": {
+    "criteria": {
+      "has_elytra": "2025-03-30 22:00:39 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-03-30 21:00:04 +0000"
@@ -2989,6 +2997,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-03-30 21:59:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-03-30 21:00:04 +0000"
@@ -3016,6 +3030,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-03-30 21:25:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-03-30 22:00:39 +0000"
     },
     "done": true
   },
@@ -3085,6 +3105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-03-30 21:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-03-30 21:16:53 +0000"
@@ -3151,9 +3177,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-03-30 21:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-03-30 21:49:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-03-30 21:59:37 +0000"
     },
     "done": true
   },
@@ -3244,6 +3282,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-03-30 20:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-03-30 21:57:10 +0000"
     },
     "done": true
   },
