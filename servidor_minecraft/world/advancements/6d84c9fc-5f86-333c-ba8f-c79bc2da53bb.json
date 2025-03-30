@@ -105,6 +105,7 @@
       "minecraft:deep_dark": "2025-03-27 18:09:52 +0000",
       "minecraft:meadow": "2025-03-27 04:57:39 +0000",
       "minecraft:windswept_gravelly_hills": "2025-03-27 16:48:33 +0000",
+      "minecraft:savanna": "2025-03-30 21:02:18 +0000",
       "minecraft:plains": "2025-03-27 02:50:44 +0000"
     },
     "done": false
@@ -204,6 +205,7 @@
       "minecraft:piglin": "2025-03-27 06:04:09 +0000",
       "minecraft:enderman": "2025-03-27 04:53:24 +0000",
       "minecraft:stray": "2025-03-28 05:55:32 +0000",
+      "minecraft:silverfish": "2025-03-30 21:11:06 +0000",
       "minecraft:vex": "2025-03-27 03:47:35 +0000",
       "minecraft:zombie": "2025-03-26 17:38:42 +0000",
       "minecraft:drowned": "2025-03-29 02:59:35 +0000"
@@ -5410,6 +5412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-30 21:10:47 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_iron_block": {
     "criteria": {
       "has_netherite_iron_ingot": "2025-03-30 20:18:23 +0000"
@@ -5419,6 +5427,12 @@
   "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-03-30 21:11:57 +0000"
     },
     "done": true
   },
@@ -5461,6 +5475,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_chestplate_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-30 21:00:07 +0000"
     },
     "done": true
   },
@@ -5518,9 +5538,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-03-30 21:11:57 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-03-30 21:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-30 21:07:03 +0000"
     },
     "done": true
   },
@@ -5536,6 +5574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-03-30 21:06:14 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_helmet_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:38 +0000"
@@ -5548,9 +5592,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-03-30 21:11:57 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-30 21:16:53 +0000"
     },
     "done": true
   },
@@ -5587,6 +5643,18 @@
   "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-03-30 21:11:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-03-30 21:05:10 +0000"
     },
     "done": true
   },
@@ -5632,9 +5700,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-03-30 21:08:05 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_hoe_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-03-30 21:10:47 +0000"
     },
     "done": true
   },
@@ -5665,6 +5745,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_pickaxe_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-30 21:16:53 +0000"
     },
     "done": true
   },

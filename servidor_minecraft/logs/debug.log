@@ -5023,3 +5023,110 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Mar2025 21:03:29.781] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-173, y=12, z=-2108} at Chest with:minecraft:chests/simple_dungeon
 [30Mar2025 21:03:29.790] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-20, y=-10, z=-2091}
 [30Mar2025 21:03:29.893] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-49, y=-10, z=-2095}
+[30Mar2025 21:04:26.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31130, l='ServerLevel[world]', x=16.66, y=-5.61, z=-1856.44] died: Foundry Guardian was slain by Manuel_Jota_23
+[30Mar2025 21:04:29.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 21:04:29.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 21:04:30.605] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31129, l='ServerLevel[world]', x=17.60, y=-10.00, z=-1855.52] died: Foundry Guardian was slain by Manuel_Jota_23
+[30Mar2025 21:05:01.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/31804, l='ServerLevel[world]', x=44.88, y=-8.23, z=-1883.89] died: Forge Sentry was slain by Aleksito27 using [Killer Of Virgins]
+[30Mar2025 21:05:05.793] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=229, y=-42, z=-2082}
+[30Mar2025 21:05:08.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31618, l='ServerLevel[world]', x=38.29, y=-8.00, z=-1812.30] died: Foundry Guardian drowned
+[30Mar2025 21:05:10.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [It Belongs in a Museum]
+[30Mar2025 21:05:47.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/31482, l='ServerLevel[world]', x=32.31, y=-7.80, z=-1887.47] died: Foundry Guardian was slain by Aleksito27 using [Killer Of Virgins]
+[30Mar2025 21:06:09.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Where Is The Stone Pen?]
+[30Mar2025 21:07:03.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Eye Spy]
+[30Mar2025 21:07:26.804] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Arag the Lurker'/29181, l='ServerLevel[world]', x=-4.09, y=-42.58, z=-1819.65] died: Arag the Lurker was slain by Aleksito27 using [Killer Of Virgins]
+[30Mar2025 21:09:29.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 21:09:29.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 21:09:57.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Spectator Mode]
+[30Mar2025 21:10:35.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 21:10:54.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:10:54.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Eye Spy]
+[30Mar2025 21:13:32.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:13:48.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set 24 experience levels on Aleksito27]
+[30Mar2025 21:14:29.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 21:14:29.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 21:16:43.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:16:53.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [The End?]
+[30Mar2025 21:16:53.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [The End?]
+[30Mar2025 21:16:56.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8086ms or 161 ticks behind
+[30Mar2025 21:16:56.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 moved too quickly! 122.22310323772982,75.46415937495544,1878.390723756491
+[30Mar2025 21:17:03.140] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[30Mar2025 21:17:03.420] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[30Mar2025 21:17:04.487] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[30Mar2025 21:17:04.490] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=57, z=0}
+[30Mar2025 21:17:58.892] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[30Mar2025 21:17:58.893] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[30Mar2025 21:18:29.045] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Hover (#10) on the server
+[30Mar2025 21:18:29.046] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:18:29.046] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=57, z=0}
+[30Mar2025 21:18:29.103] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:18:29.103] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 1 times
+[30Mar2025 21:18:34.997] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[30Mar2025 21:18:59.747] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:19:15.711] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:19:15.711] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 2 times
+[30Mar2025 21:19:34.843] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[30Mar2025 21:19:37.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 21:19:37.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 21:19:53.445] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:20:01.706] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:20:01.707] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 3 times
+[30Mar2025 21:20:03.694] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[30Mar2025 21:20:18.442] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:20:48.995] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:20:48.996] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 4 times
+[30Mar2025 21:20:50.299] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:20:52.794] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: Available attacks: 
+[30Mar2025 21:20:52.795] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: SNATCH_PLAYER
+[30Mar2025 21:20:52.795] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: CRASH_PLAYER
+[30Mar2025 21:20:52.796] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: DIVE_BOMB_PLAYER
+[30Mar2025 21:20:52.796] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CrashPlayer (#14) on the server
+[30Mar2025 21:21:01.794] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:21:25.995] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:21:25.995] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 5 times
+[30Mar2025 21:21:29.244] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:21:31.745] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: Available attacks: 
+[30Mar2025 21:21:31.745] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: SNATCH_PLAYER
+[30Mar2025 21:21:31.745] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: CRASH_PLAYER
+[30Mar2025 21:21:31.745] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: DIVE_BOMB_PLAYER
+[30Mar2025 21:21:31.746] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[30Mar2025 21:21:33.744] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CarryPlayer (#13) on the server
+[30Mar2025 21:21:37.794] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:21:43.992] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:21:43.992] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 6 times
+[30Mar2025 21:21:46.095] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:21:48.592] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: Available attacks: 
+[30Mar2025 21:21:48.592] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: SNATCH_PLAYER
+[30Mar2025 21:21:48.592] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: CRASH_PLAYER
+[30Mar2025 21:21:48.592] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: DIVE_BOMB_PLAYER
+[30Mar2025 21:21:48.592] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[30Mar2025 21:21:55.344] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:22:02.715] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:22:02.715] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 7 times
+[30Mar2025 21:22:04.195] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[30Mar2025 21:22:22.544] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:22:22.549] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#3) on the server
+[30Mar2025 21:22:32.547] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingScanning (#6) on the server
+[30Mar2025 21:22:37.492] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Takeoff (#4) on the server
+[30Mar2025 21:22:37.493] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[30Mar2025 21:22:52.395] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:22:57.842] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:22:57.842] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 1 times
+[30Mar2025 21:23:03.494] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[30Mar2025 21:23:15.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aleksito27 moved wrongly!
+[30Mar2025 21:23:19.995] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:23:35.996] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:23:35.996] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 2 times
+[30Mar2025 21:23:40.993] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargingPlayer (#8) on the server
+[30Mar2025 21:23:55.745] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:24:01.996] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:24:01.996] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 3 times
+[30Mar2025 21:24:03.191] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:24:05.693] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: Available attacks: 
+[30Mar2025 21:24:05.693] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: SNATCH_PLAYER
+[30Mar2025 21:24:05.693] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: CRASH_PLAYER
+[30Mar2025 21:24:05.693] [Server thread/DEBUG] [endertrigon/DragonChargeUpPhase/]: DIVE_BOMB_PLAYER
+[30Mar2025 21:24:05.693] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CrashPlayer (#14) on the server
+[30Mar2025 21:24:14.700] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:24:29.994] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:24:29.994] [Server thread/DEBUG] [minecraft/DragonStrafePlayerPhase/]: Ender Dragon has strafed 4 times
