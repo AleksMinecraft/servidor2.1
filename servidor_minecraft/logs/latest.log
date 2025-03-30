@@ -510,3 +510,65 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Mar2025 21:24:05.693] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CrashPlayer (#14) on the server
 [30Mar2025 21:24:14.700] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
 [30Mar2025 21:24:29.994] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:24:43.694] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:24:46.197] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[30Mar2025 21:24:56.095] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:24:56.095] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#3) on the server
+[30Mar2025 21:25:05.643] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingScanning (#6) on the server
+[30Mar2025 21:25:06.895] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingAttacking (#7) on the server
+[30Mar2025 21:25:08.893] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingFlaming (#5) on the server
+[30Mar2025 21:25:18.845] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingScanning (#6) on the server
+[30Mar2025 21:25:20.091] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingAttacking (#7) on the server
+[30Mar2025 21:25:20.153] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Takeoff (#4) on the server
+[30Mar2025 21:25:21.444] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:25:24.292] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:25:29.345] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:25:31.844] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CrashPlayer (#14) on the server
+[30Mar2025 21:25:40.848] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:26:01.996] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:26:04.095] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:26:06.595] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase DiveBombPlayer (#15) on the server
+[30Mar2025 21:26:11.094] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:26:19.193] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:26:27.595] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:26:30.094] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CrashPlayer (#14) on the server
+[30Mar2025 21:26:39.098] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:26:42.995] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase StrafePlayer (#1) on the server
+[30Mar2025 21:26:44.693] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase ChargeUp (#11) on the server
+[30Mar2025 21:26:47.192] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SnatchPlayer (#12) on the server
+[30Mar2025 21:26:50.294] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase CarryPlayer (#13) on the server
+[30Mar2025 21:26:52.194] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase HoldingPattern (#0) on the server
+[30Mar2025 21:26:52.195] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase Landing (#3) on the server
+[30Mar2025 21:26:59.794] [Server thread/INFO] [net.minecraft.world.entity.boss.enderdragon.phases.EnderDragonPhaseManager/]: Dragon is now in phase SittingScanning (#6) on the server
+[30Mar2025 21:27:00.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Free the End]
+[30Mar2025 21:27:05.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepito[/127.125.241.103:38427] logged in with entity id 39578 at (87.76891238079293, 95.0, 119.7130534543103)
+[30Mar2025 21:27:05.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito joined the game
+[30Mar2025 21:27:05.844] [Server thread/INFO] [Jade/]: Syncing config to pepito (3b6eece8-baa9-3e51-8999-07090befd51e)
+[30Mar2025 21:27:09.160] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pepito (18)
+[30Mar2025 21:27:09.161] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pepito
+[30Mar2025 21:27:10.555] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=57, z=0}
+[30Mar2025 21:27:20.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3b6eece8-baa9-3e51-8999-07090befd51e
+[30Mar2025 21:27:21.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3b6eece8-baa9-3e51-8999-07090befd51e
+[30Mar2025 21:27:21.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pepito (3b6eece8-baa9-3e51-8999-07090befd51e) successfully connected to voice chat
+[30Mar2025 21:27:43.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [The Next Generation]
+[30Mar2025 21:29:07.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:29:59.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has made the advancement [Remote Getaway]
+[30Mar2025 21:29:59.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[30Mar2025 21:30:06.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> tanto
+[30Mar2025 21:30:31.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[30Mar2025 21:30:41.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 21:30:43.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Ice Bucket Challenge]
+[30Mar2025 21:30:55.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:31:09.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 21:31:28.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[30Mar2025 21:31:31.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 fell out of the world
+[30Mar2025 21:31:31.165] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-21.31.31.dat
+[30Mar2025 21:31:31.176] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 21:31:31.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 fell out of the world
+[30Mar2025 21:31:31.667] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Aleksito27 with unique ID travelersbackpack.bat_30.03.2025-21.31.31.dat
+[30Mar2025 21:31:31.672] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[30Mar2025 21:31:39.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepito> xdd
+[30Mar2025 21:31:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 21:33:10.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has reached the goal [You Need a Mint]
+[30Mar2025 21:34:26.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepito has made the advancement [Ashes 'n Bones]
+[30Mar2025 21:34:43.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]

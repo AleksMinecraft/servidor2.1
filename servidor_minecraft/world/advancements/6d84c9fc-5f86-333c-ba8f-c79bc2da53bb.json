@@ -206,6 +206,7 @@
       "minecraft:enderman": "2025-03-27 04:53:24 +0000",
       "minecraft:stray": "2025-03-28 05:55:32 +0000",
       "minecraft:silverfish": "2025-03-30 21:11:06 +0000",
+      "minecraft:endermite": "2025-03-30 21:32:02 +0000",
       "minecraft:vex": "2025-03-27 03:47:35 +0000",
       "minecraft:zombie": "2025-03-26 17:38:42 +0000",
       "minecraft:drowned": "2025-03-29 02:59:35 +0000"
@@ -5234,6 +5235,7 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_end": "2025-03-30 21:31:39 +0000",
       "in_mineshaft_warped": "2025-03-29 04:08:40 +0000"
     },
     "done": false
@@ -5424,6 +5426,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-30 21:25:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-03-30 21:27:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-03-30 21:21:29 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_boots_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:19:09 +0000"
@@ -5496,6 +5516,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-03-30 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_rod": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-03-30 21:33:39 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:56 +0000"
@@ -5532,6 +5564,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-03-30 21:29:59 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_pickaxe_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:38 +0000"
@@ -5544,15 +5582,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-03-30 21:21:29 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_axe_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-03-30 21:33:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-30 21:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-03-30 21:10:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-30 21:25:11 +0000"
     },
     "done": true
   },
@@ -5610,6 +5672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-30 21:33:29 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_sword_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:38 +0000"
@@ -5619,6 +5687,12 @@
   "advancednetherite:recipes/misc/lodestone": {
     "criteria": {
       "has_netherite_ingots": "2025-03-30 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-30 21:25:11 +0000"
     },
     "done": true
   },
@@ -5634,15 +5708,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-03-30 21:33:29 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_helmet_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:19:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-03-30 21:21:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/dragon": {
+    "criteria": {
+      "has_dragon_breath": "2025-03-30 21:33:10 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_sword_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-03-30 21:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-03-30 21:25:11 +0000"
     },
     "done": true
   },
@@ -5688,6 +5792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-30 21:25:11 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_revenant": {
     "criteria": {
       "endergolem": "2025-03-30 20:30:25 +0000"
@@ -5697,6 +5807,12 @@
   "advancednetherite:recipes/misc/netherite_iron_leggings_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-03-30 21:25:11 +0000"
     },
     "done": true
   },
@@ -5715,6 +5831,12 @@
   "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
     "criteria": {
       "has_eye_armor_trim_smithing_template": "2025-03-30 21:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_block": {
+    "criteria": {
+      "has_chorus_fruit_popped": "2025-03-30 21:33:39 +0000"
     },
     "done": true
   },
@@ -5766,9 +5888,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-03-30 21:33:29 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_sword_smithing": {
     "criteria": {
       "has_ingredients": "2025-03-30 20:19:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-03-30 21:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-03-30 21:21:29 +0000"
     },
     "done": true
   },
