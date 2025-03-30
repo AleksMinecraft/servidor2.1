@@ -375,3 +375,27 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [30Mar2025 20:31:23.425] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.31.23.dat
 [30Mar2025 20:31:23.450] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
 [30Mar2025 20:32:00.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [The Extinguished Fire]
+[30Mar2025 20:33:44.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Ignis
+[30Mar2025 20:33:44.859] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.33.44.dat
+[30Mar2025 20:33:44.867] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 20:35:21.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Ignis
+[30Mar2025 20:35:21.858] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.35.21.dat
+[30Mar2025 20:35:21.865] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 20:35:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Ignis
+[30Mar2025 20:35:36.209] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.35.36.dat
+[30Mar2025 20:35:36.219] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 20:37:36.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Ignis
+[30Mar2025 20:37:36.558] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.37.36.dat
+[30Mar2025 20:37:36.564] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 20:38:06.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 20:42:11.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: The difficulty has been set to Normal]
+[30Mar2025 20:43:20.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[30Mar2025 20:43:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 20:43:49.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 20:46:09.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[30Mar2025 20:46:28.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 20:47:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Stolen Magic]
+[30Mar2025 20:47:38.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Manuel_Jota_23 using [Killer Of Virgins]
+[30Mar2025 20:47:38.460] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Aleksito27 with unique ID travelersbackpack.bat_30.03.2025-20.47.38.dat
+[30Mar2025 20:47:38.470] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[30Mar2025 20:50:55.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set 200 experience levels on Aleksito27]

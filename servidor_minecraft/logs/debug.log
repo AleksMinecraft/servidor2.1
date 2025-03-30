@@ -4938,3 +4938,41 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30Mar2025 20:31:23.433] [Server thread/DEBUG] [tombstone/]: A new grave of the player Manuel_Jota_23 was created at position [x:1401, y:65, z:1681, dim:minecraft:the_nether]
 [30Mar2025 20:31:23.450] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
 [30Mar2025 20:32:00.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 has completed the challenge [The Extinguished Fire]
+[30Mar2025 20:33:44.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Ignis
+[30Mar2025 20:33:44.859] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.33.44.dat
+[30Mar2025 20:33:44.860] [Server thread/DEBUG] [tombstone/]: A new grave of the player Manuel_Jota_23 was created at position [x:1407, y:65, z:1680, dim:minecraft:the_nether]
+[30Mar2025 20:33:44.867] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 20:34:29.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 20:34:29.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 20:35:21.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Ignis
+[30Mar2025 20:35:21.858] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.35.21.dat
+[30Mar2025 20:35:21.858] [Server thread/DEBUG] [tombstone/]: A new grave of the player Manuel_Jota_23 was created at position [x:1404, y:65, z:1672, dim:minecraft:the_nether]
+[30Mar2025 20:35:21.865] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 20:35:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Ignis
+[30Mar2025 20:35:36.209] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.35.36.dat
+[30Mar2025 20:35:36.211] [Server thread/DEBUG] [tombstone/]: A new grave of the player Manuel_Jota_23 was created at position [x:1397, y:65, z:1679, dim:minecraft:the_nether]
+[30Mar2025 20:35:36.219] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 20:36:57.295] [Worker-Main-28/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=1637, y=72, z=1851} at Chest with:minecraft:chests/bastion_other
+[30Mar2025 20:37:36.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 was slain by Ignis
+[30Mar2025 20:37:36.558] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Manuel_Jota_23 with unique ID travelersbackpack.standard_30.03.2025-20.37.36.dat
+[30Mar2025 20:37:36.559] [Server thread/DEBUG] [tombstone/]: A new grave of the player Manuel_Jota_23 was created at position [x:1389, y:65, z:1675, dim:minecraft:the_nether]
+[30Mar2025 20:37:36.564] [Server thread/INFO] [tombstone/]: The player Manuel_Jota_23 has successfully been saved
+[30Mar2025 20:38:06.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 20:39:29.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 20:39:29.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 20:42:11.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: The difficulty has been set to Normal]
+[30Mar2025 20:43:20.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[30Mar2025 20:43:34.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 20:43:49.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Teleported Manuel_Jota_23 to Aleksito27]
+[30Mar2025 20:44:29.049] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 20:44:29.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 20:46:09.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Creative Mode]
+[30Mar2025 20:46:28.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set own game mode to Survival Mode]
+[30Mar2025 20:47:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Manuel_Jota_23 has made the advancement [Stolen Magic]
+[30Mar2025 20:47:38.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aleksito27 was slain by Manuel_Jota_23 using [Killer Of Virgins]
+[30Mar2025 20:47:38.460] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Aleksito27 with unique ID travelersbackpack.bat_30.03.2025-20.47.38.dat
+[30Mar2025 20:47:38.461] [Server thread/DEBUG] [tombstone/]: A new grave of the player Aleksito27 was created at position [x:425, y:64, z:2020, dim:minecraft:overworld]
+[30Mar2025 20:47:38.470] [Server thread/INFO] [tombstone/]: The player Aleksito27 has successfully been saved
+[30Mar2025 20:49:29.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Mar2025 20:49:29.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Mar2025 20:50:55.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Aleksito27: Set 200 experience levels on Aleksito27]
